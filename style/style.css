@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(243, 223, 183);
+    border: 5px solid black;
+    padding: 2px;
+}
+
+h1, h2, h3  {
+    border: 5px solid red;
+    padding: 4px;
+    text-align: center;
+    background-color: yellow;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 300;
+}
+
+.note {
+    border: 5px solid red;
+    background-color: white;
+    text-align: center;
+}
+
+ul,
+ol {
+    border: 3px solid red;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: white;
+}
+
+.description {
+    border: 3px solid red;
+    padding: 4px;
+    text-align: center;
+    background-color: white;
+}
